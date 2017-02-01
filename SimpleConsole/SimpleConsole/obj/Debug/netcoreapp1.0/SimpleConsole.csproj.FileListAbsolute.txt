@@ -1,9 +1,0 @@
-c:\users\grant\documents\visual studio 2017\Projects\SimpleConsole\SimpleConsole\bin\Debug\netcoreapp1.0\SimpleConsole.deps.json
-c:\users\grant\documents\visual studio 2017\Projects\SimpleConsole\SimpleConsole\bin\Debug\netcoreapp1.0\SimpleConsole.runtimeconfig.json
-c:\users\grant\documents\visual studio 2017\Projects\SimpleConsole\SimpleConsole\bin\Debug\netcoreapp1.0\SimpleConsole.runtimeconfig.dev.json
-c:\users\grant\documents\visual studio 2017\Projects\SimpleConsole\SimpleConsole\bin\Debug\netcoreapp1.0\SimpleConsole.dll
-c:\users\grant\documents\visual studio 2017\Projects\SimpleConsole\SimpleConsole\bin\Debug\netcoreapp1.0\SimpleConsole.pdb
-c:\users\grant\documents\visual studio 2017\Projects\SimpleConsole\SimpleConsole\obj\Debug\netcoreapp1.0\SimpleConsole.csprojResolveAssemblyReference.cache
-c:\users\grant\documents\visual studio 2017\Projects\SimpleConsole\SimpleConsole\obj\Debug\netcoreapp1.0\SimpleConsole.AssemblyInfo.cs
-c:\users\grant\documents\visual studio 2017\Projects\SimpleConsole\SimpleConsole\obj\Debug\netcoreapp1.0\SimpleConsole.dll
-c:\users\grant\documents\visual studio 2017\Projects\SimpleConsole\SimpleConsole\obj\Debug\netcoreapp1.0\SimpleConsole.pdb
