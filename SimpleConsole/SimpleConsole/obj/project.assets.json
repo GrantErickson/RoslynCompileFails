@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.6": {},
+    ".NETFramework,Version=v4.6/win": {},
+    ".NETFramework,Version=v4.6/win-x64": {},
+    ".NETFramework,Version=v4.6/win-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6": []
+  },
+  "packageFolders": {
+    "C:\\Users\\grant\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "restore": {
+      "projectUniqueName": "c:\\users\\grant\\documents\\visual studio 2017\\Projects\\SimpleConsole\\SimpleConsole\\SimpleConsole.csproj",
+      "projectName": "SimpleConsole",
+      "projectPath": "c:\\users\\grant\\documents\\visual studio 2017\\Projects\\SimpleConsole\\SimpleConsole\\SimpleConsole.csproj",
+      "outputPath": "c:\\users\\grant\\documents\\visual studio 2017\\Projects\\SimpleConsole\\SimpleConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "net46"
+      ],
+      "frameworks": {
+        "net46": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net46": {}
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
